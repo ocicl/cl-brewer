@@ -1,0 +1,9 @@
+* cl-brewer
+
+A Homebrew formula builder for Common Lisp applications.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/40ants/cl-brewer.git     |
+| commit  | 3d59368                                         |
+| systems | cl-brewer                                       |
+|---------+-------------------------------------------------|
